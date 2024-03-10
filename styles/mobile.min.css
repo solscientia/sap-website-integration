@@ -43,10 +43,10 @@
   #aarsi-addon {
     padding: 1rem;
   }
-  #features > p {
+  #ciss > p {
     padding-inline: 1rem;
   }
-  #features > div {
+  #ciss > div {
     grid-template-columns: 1fr;
     grid-template-areas: "image" "caption";
     padding: 1rem;
