@@ -108,12 +108,6 @@ header > .logo > img {
   width: auto;
   height: 2.25rem;
 }
-header > .logo > img.full {
-  display: block;
-}
-header > .logo > img.small {
-  display: none;
-}
 header > nav > ul {
   display: flex;
   gap: 2rem;
